@@ -8,4 +8,4 @@ first get the channel at which the device is synced in the system
 ```
 pactl list sync
 ```
->>you might need cmod to get the permissions to run the script
+>you might need ```cmod``` to get the permissions to run the script
